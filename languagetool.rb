@@ -2,7 +2,7 @@ class Languagetool < Formula
   desc "Style and grammar checker"
   homepage "https://www.languagetool.org/"
   url "https://www.languagetool.org/download/LanguageTool-3.4.zip"
-  sha256 "ff36380c5807c5bdc67d222c5f2adeeb0a047a02661885c29cd8297443846c9c"
+  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   version "3.4"
   bottle :unneeded
 
