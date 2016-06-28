@@ -3,7 +3,7 @@ class Languagetool < Formula
   homepage "https://www.languagetool.org/"
   url "https://www.languagetool.org/download/LanguageTool-3.4.zip"
   sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
+  version "3.4"
   bottle :unneeded
 
   def server_script(server_jar); <<-EOS.undent
